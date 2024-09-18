@@ -1,5 +1,5 @@
 from prefect import flow
-from prefect.artifacts import create_markdown_artifact, create_table_artifact
+from prefect.artifacts import create_markdown_artifact
 import urllib.parse as urllp
 import pandas as pd
 from prefect.runtime import flow_run
