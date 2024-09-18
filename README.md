@@ -1,5 +1,5 @@
 # Prefect Artifact
-Simple project showing an artefact on prefect with table and external link
+Simple project showing an artifact on prefect with table and external link
 
 # Installation
 
@@ -20,3 +20,6 @@ Connect to prefect cloud:
 prefect cloud login
 ```
 Link https://app.prefect.cloud/
+
+# Example
+![alt text](https://github.com/ruscot/prefect_artifact/blob/main/prefect_artifact.png?raw=true)
